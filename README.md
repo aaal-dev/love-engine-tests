@@ -1,4 +1,4 @@
-# love-engine-tests
+# Experiments with LÖVE
 Self learning of [Lua](https://www.lua.org/) programming language and [LÖVE](https://love2d.org/) 2D game engine
 
 ## Assets
